@@ -27,9 +27,7 @@ Accuracy Rate=Accuracy/no of test examples
 	​
 Error Rate is then computed as:
 
-Error Rate
-=
-1-Accuracy Rate
+Error Rate=1-Accuracy Rate
 
 This process ensures that model performance is evaluated only on unseen data, avoiding data leakage.
 
