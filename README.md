@@ -21,24 +21,15 @@ The number of correctly classified test samples is counted.
 
 Accuracy is calculated as:
 
-Accuracy
-=
-Number of Correct Predictions
-Total Test Samples
-Accuracy=
-Total Test Samples
-Number of Correct Predictions
+Accuracy=Number of Correct Predictions out of total test prediction
+
+Accuracy Rate=Accuracy/no of test examples
 	​
-
-
 Error Rate is then computed as:
 
 Error Rate
 =
-1
-−
-Accuracy
-Error Rate=1−Accuracy
+1-Accuracy Rate
 
 This process ensures that model performance is evaluated only on unseen data, avoiding data leakage.
 
