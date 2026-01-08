@@ -55,4 +55,4 @@ Plotting Error Rate vs k helps identify an optimal k that balances this trade-of
 
 The resulting curve provides a visual way to select a suitable k rather than relying on a single arbitrary value.
 
-Conclusion:k=22 gives lowest error i.e. 0.065 but increases model complexity on the other hand k=12 gives nearly same error close to 0.065 also model complexity reduces,so by accuracy-complexity trde off k=12 is a good choice of k for this data set
+Conclusion:k=22 gives lowest error i.e. 0.065 but increases model complexity on the other hand k=12 gives nearly same error close to 0.070 also model complexity reduces,so by accuracy-complexity trde off k=12 is a good choice of k for this data set
